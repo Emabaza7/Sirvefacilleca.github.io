@@ -1,0 +1,20 @@
+<section id="servicios">
+    <h2>Nuestros Servicios</h2>
+    <div class="servicios-grid">
+        <div class="tarjeta-servicio">
+            <h3>Menús Digitales</h3>
+            <p>Menús interactivos y responsivos para cualquier dispositivo</p>
+            <a href="#" class="boton boton-primario">Más Info</a>
+        </div>
+        <div class="tarjeta-servicio">
+            <h3>Diseño Personalizado</h3>
+            <p>Diseños únicos que reflejan la identidad de tu negocio</p>
+            <a href="#" class="boton boton-primario">Más Info</a>
+        </div>
+        <div class="tarjeta-servicio">
+            <h3>Actualización en Tiempo Real</h3>
+            <p>Modifica precios y platillos instantáneamente</p>
+            <a href="#" class="boton boton-primario">Más Info</a>
+        </div>
+    </div>
+</section>
