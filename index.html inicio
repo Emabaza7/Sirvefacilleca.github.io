@@ -1,0 +1,21 @@
+<!-- Inicio Section -->
+<nav>
+    <div class="nav-container">
+        <a href="#" class="logo">SirveFacil LECA</a>
+        <div class="nav-links">
+            <a href="#inicio">Inicio</a>
+            <a href="#que-somos">Nosotros</a>
+            <a href="#servicios">Servicios</a>
+            <a href="#precios">Precios</a>
+            <a href="#contacto">Contacto</a>
+        </div>
+    </div>
+</nav>
+
+<header class="hero">
+    <div class="hero-content animate">
+        <h1>Menús Digitales Profesionales</h1>
+        <p>Transformamos tu menú tradicional en una experiencia digital moderna</p>
+        <a href="#contacto" class="boton boton-primario">Comienza Ahora</a>
+    </div>
+</header>
