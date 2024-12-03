@@ -1,0 +1,26 @@
+<section id="precios">
+    <h2>Planes y Precios</h2>
+    <div class="planes-precios">
+        <div class="plan">
+            <h3>Básico</h3>
+            <p class="precio">$999/mes</p>
+            <ul>
+                <li>Menú Digital Básico</li>
+                <li>Actualizaciones Mensuales</li>
+                <li>Soporte por Email</li>
+            </ul>
+            <a href="#" class="boton boton-primario">Elegir Plan</a>
+        </div>
+        <div class="plan plan-destacado">
+            <h3>Premium</h3>
+            <p class="precio">$1,999/mes</p>
+            <ul>
+                <li>Menú Digital Personalizado</li>
+                <li>Actualizaciones Ilimitadas</li>
+                <li>Soporte 24/7</li>
+                <li>Panel de Administración</li>
+            </ul>
+            <a href="#" class="boton boton-primario">Elegir Plan</a>
+        </div>
+    </div>
+</section>
